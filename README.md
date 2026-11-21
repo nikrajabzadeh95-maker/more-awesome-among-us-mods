@@ -1,4 +1,4 @@
-# More Awesome Among Us [![Awesome]
+# More Awesome Among Us Mod [![Awesome]
 A curated list of more awesome Among Us mods that are not in awesome-among-us, tools and resources.
 
 If you want to contribute, please open a pull request!
