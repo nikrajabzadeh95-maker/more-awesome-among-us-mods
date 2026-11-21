@@ -32,6 +32,8 @@ If you want to contribute, please open a pull request!
 - [StellarRolesAU](https://github.com/Mr-Fluuff/StellarRolesAU) - new roles, settings and custom cosmetics
 - [AllTheRoles](https://github.com/Zeo666/AllTheRoles) - many new roles, modifiers, game modes, map settings, hats and more
 - [NewMod](https://github.com/CallOfCreator/NewMod) - new roles, abilities and game modes
+- [Las-Monjas] (https://github.com/KiraYamato94/LasMonjas) - adds dozens of roles, gamemodes, custom hats and more.
+- [SuperNewRoles] (https://github.com/SuperNewRoles/SuperNewRoles) - a japanese mod that have more roles, gamemode, japanese hats, and visors.
 
 ## Host-only Mods
 
